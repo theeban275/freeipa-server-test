@@ -1,0 +1,5 @@
+# ignore vagrant files
+.vagrant
+
+# ignore swp files
+*.swp
