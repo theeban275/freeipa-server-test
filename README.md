@@ -36,7 +36,7 @@ sudo ipa-server-install
 # enter default values and appropriate passwords and enter yes to install
 ```
 
-### Call JSON API
+### Call API using JSON-RPC
 
 ```
 # first get a kerberos ticket
