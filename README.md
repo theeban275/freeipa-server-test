@@ -44,7 +44,7 @@ kinit admin
 
 # run ipa user-find --all using using json api
 curl -v  \
-         -H referer:https://$HOSTNAME/ipa  \
+         -H referer:https://`hostname`/ipa  \
          -H "Content-Type:application/json" \
          -H "Accept:applicaton/json"\
          --negotiate -u : \
