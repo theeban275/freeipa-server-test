@@ -71,4 +71,4 @@ ipa show-mappings user-find
 ### Useful links
 
 * [API](https://git.fedorahosted.org/cgit/freeipa.git/tree/API.txt)
-
+* [FreeIPA JSON web API via curl](http://adam.younglogic.com/2010/07/talking-to-freeipa-json-web-api-via-curl/)
